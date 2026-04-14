@@ -1,1 +1,2 @@
 # controle_estudos
+O objetivo desse projeto é praticar as funcionalidades relacionadas ao GitHub e, principalmente, o VsCode. Nesse projeto aprendemos a criar um repositório diretamente no GitHub e clona-lo no VsCode. Além, do aprimoramento dos comandos básicos do Git, como, adicionar e criar novos arquivos, fazer os commit`s, criar novas braches, adicionar as alterações no repositório. Aprendemos a fazer um pull request, a merge e uma simulação de erro e como corrig-lá.
