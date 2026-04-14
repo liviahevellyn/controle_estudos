@@ -1,0 +1,16 @@
+Git: Repositório: pasta do projeto controlada pelo Git
+Commit: comentário das alterações em um momento
+Branch: linha de desenvolvimento (ex: main, master)
+Merge: juntar alterações de branches diferentes
+Clone: copiar um repositório remoto para sua máquina
+Pull: trazer atualizações do repositório remoto
+Push: enviar suas alterações para o remoto
+
+GitHub: Remote (origin): link do repositório no GitHub
+Fork: cópia de um repositório de outra pessoa
+Pull Request: proposta de mudança no código
+Issues: tarefas, bugs ou discussões
+
+VSCode: Faça login na sua conta GitHub dentro do VS Code
+Use a extensão:
+GitHub Pull Requests and Issues
