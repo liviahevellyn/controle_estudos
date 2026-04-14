@@ -1,3 +1,4 @@
+O Git é um sistema de controle de versão, ele registra mudanças no código ao longo do tempo.
 Git: Repositório: pasta do projeto controlada pelo Git
 Commit: comentário das alterações em um momento
 Branch: linha de desenvolvimento (ex: main, master)
@@ -14,3 +15,4 @@ Issues: tarefas, bugs ou discussões
 VSCode: Faça login na sua conta GitHub dentro do VS Code
 Use a extensão:
 GitHub Pull Requests and Issues
+É a funcionalidade do VS Code que integra o Git para controlar e gerenciar versões de arquivos e projetos, permitindo registrar alterações, trabalhar em equipe e manter histórico do código.
