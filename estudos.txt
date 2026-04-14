@@ -16,3 +16,5 @@ VSCode: Faça login na sua conta GitHub dentro do VS Code
 Use a extensão:
 GitHub Pull Requests and Issues
 É a funcionalidade do VS Code que integra o Git para controlar e gerenciar versões de arquivos e projetos, permitindo registrar alterações, trabalhar em equipe e manter histórico do código.
+
+Git: erro proposital de digitação 
